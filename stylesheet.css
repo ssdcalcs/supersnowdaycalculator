@@ -1,0 +1,28 @@
+html {
+ background-image:url("http://upload.wikimedia.org/wikipedia/commons/d/d6/Field-with-snow-champ-enneige.jpg")
+}
+
+body {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+.footer {
+  color: white;
+}
+p {
+    color: black;
+    padding-top: 25px;
+    padding-right: 350px;
+    padding-bottom: 25px;
+    padding-left: 350px;
+}  
+img {
+  border-style: solid;
+    border-width: medium;
+}
+i {
+  padding-top: 25px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 25px; 
+}
