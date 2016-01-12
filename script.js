@@ -7,7 +7,7 @@ function calcer() {
     return;
   } 
   else {
-  	prob = (Math.round(zipCode * day/10)) % 100;
+  	prob = (6 * ((zipCode + (day * 12)) / 6)) % 100;
   }
   
   alert("The snowday calculator predicts that there is a(n) " + prob +" percent chance.");
